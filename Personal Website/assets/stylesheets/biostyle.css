@@ -1,0 +1,61 @@
+.header {
+	background: black;
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 550px;
+}
+
+.jumbotron {
+	background-olor: blue;
+}
+
+.jumbotron h1 {
+	color: black;
+}
+
+.background {
+	background-image: url("https://images.unsplash.com/photo-1442406964439-e46ab8eff7c4?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5e46ad0c03ce5a81a0541ab625f71f8b");
+}
+
+.title{
+	color: white;
+	padding-left: 30px;
+}
+
+
+.footer {
+	background: black;
+	height: 75px;
+
+}
+
+.fave1 {
+	background: white;
+	margin-top: 220px;
+	height: 60px;
+	padding: 20px;
+	border: 2px solid black;
+}
+
+
+body {
+	background: #d3d3d3;
+}
+
+img {
+	float: left;
+	margin-top: 10px;
+	border: 10px solid black;
+	margin-right: -50px;
+	margin-bottom: 20px;
+}
+
+.panel-primary.panel-heading {
+	background-color: black;
+	border-color: white;
+}
+
+.panel {
+	margin-top: 10px;
+}

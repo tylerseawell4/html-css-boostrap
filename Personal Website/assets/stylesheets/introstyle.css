@@ -1,0 +1,52 @@
+.container-fluid {
+
+	padding-left:600px;
+}
+
+.click {
+
+	padding-right: 1000px;
+}
+
+.header {
+	background: black;
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 450px;
+}
+
+.spacing {
+	padding-left: 150px;
+}
+
+.main {
+	background-image: url("http://www.timelinecoverbanner.com/facebook-covers/black-white-tree.jpg");
+	background-size: 100%;
+	height: 600px;
+	vertical-align: middle;
+}
+.title{
+	color: white;
+	text-shadow: 3px 3px black;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.border {
+	width: 600px;
+	background-size: 75%;
+	background-image: url("https://images.unsplash.com/photo-1429961449642-0d5a0d68245f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=50bc586961b8093bce47b0cf0f6470ef");
+	border: 10px groove gray;
+	padding-left: 100px;
+	padding-right: 50px;
+	font-size: 35px;
+	margin-left: -100px;
+	
+}
+
+footer{
+	background: gray;
+}
